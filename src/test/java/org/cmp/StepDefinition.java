@@ -18,6 +18,7 @@ public class StepDefinition {
 		driver = new ChromeDriver();
 		driver.get("https://www.facebook.com/");
 		driver.manage().window().maximize();
+		System.out.println("hi");
 	}
 
 	@When("User enters {string} and {string}")
