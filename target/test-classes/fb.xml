@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0.007741">
+<testcase classname="Verify facebook login functionality" name="Verify login functionality for valid username and invalid password" time="0.006322">
+<system-out><![CDATA[Given user on facebook page.................................................skipped
+When User enters "anto" and "sherwin".......................................skipped
+And click login button......................................................skipped
+Then Error page displayed...................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Verify facebook login functionality" name="Verify login functionality for valid username and invalid password 2" time="0.000785">
+<system-out><![CDATA[Given user on facebook page.................................................skipped
+When User enters "anto1" and "sherwin1".....................................skipped
+And click login button......................................................skipped
+Then Error page displayed...................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Verify facebook login functionality" name="Verify login functionality for valid username and invalid password 3" time="0.000634">
+<system-out><![CDATA[Given user on facebook page.................................................skipped
+When User enters "anto2" and "sherwin2".....................................skipped
+And click login button......................................................skipped
+Then Error page displayed...................................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
